@@ -1,0 +1,40 @@
+.everything{
+  background-color: #061151;
+color: white;
+}
+h1{
+  text-align: center;
+}
+
+.navbar{
+  text-align:center;
+}
+
+.options{
+  border: 4px double #000030;
+  margin: 25px;
+  padding: 20px 30px;
+  color: black;
+  background-color: white;
+  }
+.lowprice{
+  border: 2px solid #000030;
+  margin:3px;
+  padding: 5px 5px;
+  background-color: #d7eef2;
+}
+
+.midprice{
+  border: 2px solid #000030;
+  margin:3px;
+  padding: 5px 5px;
+  background-color: #d7eef2;
+}
+
+.highprice{
+  border: 2px solid #000030;
+  margin:3px;
+  padding: 5px 5px;
+  background-color: #d7eef2;
+}
+
