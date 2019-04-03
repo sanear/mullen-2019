@@ -15,7 +15,7 @@ var restaurants = [
   },
   {
     "name": "Tokyo Joe's",
-    "locationName": "Hampden",
+    "locationName": "Hampton",
     "address": "901 W Hampden Ave, Englewood, CO 80110",
     "rating": 2,
     "priceLevel": 3
