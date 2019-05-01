@@ -38,3 +38,13 @@ h1{
   background-color: #d7eef2;
 }
 
+.ourbutton{
+margin:5px;
+background-color: #ffff80;
+padding:4px;
+}
+
+.text-center{
+font-family:"arial Black", Gadget, sans-serif;
+font-size: 127px;
+}
