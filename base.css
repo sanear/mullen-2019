@@ -10,13 +10,22 @@ h1{
   text-align: center;
 }
 
+.horizontal-scrolling > .row {
+  overflow-x: auto;
+}
+
+.horizontal-scrolling > .row > .col-3 {
+  display: inline-block;
+  float: none;
+}
+
 .options{
   border: 4px double #000030;
   margin: 25px;
   padding: 20px 30px;
   color: black;
   background-color: white;
-  }
+}
 .lowprice{
   border: 2px solid #000030;
   margin:3px;

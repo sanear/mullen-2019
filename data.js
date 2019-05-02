@@ -50,4 +50,4 @@ var restaurants = [
     "rating": 2,
     "priceLevel": 3
   }
-]
+];
