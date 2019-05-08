@@ -1,7 +1,7 @@
 var restaurants = [
   {
     "name": "Chick Fil-A",
-    "image": "http://image.fake.url/image.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Chick-fil-A_Logo.svg",
     "description": "THIS IS A DESCRIPTION",
     "locationName": "River Point",
     "address": "4090 River Point Pkwy, Sheridan, CO 80110",
