@@ -19,7 +19,7 @@ function makeRestaurantCard(restaurant) {
 	var imageUrl = restaurant.image;
 	var restaurantName = restaurant.name;
 	var result = '<div class="col-3">';
-	result += '<div class="card card-block" style="width: 18rem;">';
+	result += '<div class="card card-block" style="width: 18rem; height: 55rem;">';
 	result += '<img src="' + imageUrl + '" class="card-img-top" alt="...">';
 	result += '<div class="card-body">';
 	result += '<h5 class="card-title">' + restaurantName + '</h5>';
