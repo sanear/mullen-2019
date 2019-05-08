@@ -1,13 +1,19 @@
 .everything{
-  background-color: #061151;
-  color: white;
+  background-color: #241b87;
+}
+
+.information {
+	border: 8px double black;
+	background: #FFFFFF;
+	padding: 10px;
+	margin: 25%;
 }
 
 h1{
-  text-align: center;
-  font-family: "Courier New", Courier, monospace;
-  font-size: xx-large;
-  font-weight: bolder;
+	text-align: center;
+	font-family: "Courier New", Courier, monospace;
+	font-size: xx-large;
+	font-weight: bolder;
 }
 
 p {
@@ -16,15 +22,14 @@ p {
 	text-align: center;
 }
 
-body {
+.about{
 	background: url(https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/1617662_632395490194298_4394269281450200992_o.jpg?_nc_cat=110&_nc_ht=scontent-lga3-1.xx&oh=2f16230c3c582b0b4959698a413c147e&oe=5D36B422);
 	background-size: auto;
 }
-.information {
-	border: 8px double black;
-	background: #FFFFFF;
-	padding: 10px;
-	margin: 25%;
+.gwc {
+	border: 3px solid black;
+	margin: 5px;
+	width: 100px;
 }
 
 .navbar{
@@ -45,7 +50,6 @@ body {
   margin: 25px;
   padding: 20px 30px;
   color: black;
-  background-color: white;
 }
 .lowprice{
   border: 2px solid #000030;
