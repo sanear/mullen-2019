@@ -54,7 +54,7 @@ var restaurants = [
   },
   {	
     "name": "Panda Express",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Panda_Express_logo.svg/220px-Panda_Express_logo.svg.png",
+    "image": "https://i.ytimg.com/vi/PbIu4lAE3XI/maxresdefault.jpg",
     "description":"Nothing like some fake chinese food to hold you over for the afternoon. Make sure you buy some plushie pandas and eat "+
     "some weird eggrolls. Make sure you think of the panda's here. Pandas are endangered, there is only about 700-1000 pandas in the world. " +
     "Remember baby pandas look like pink sticks of butter and then they get cute. THINK OF THE PANDAS.",
@@ -76,6 +76,8 @@ var restaurants = [
   },
   {
 	"name": "Starbucks",
+	"description": "These drinks will save you from the zombie apocalypse. Don't go here, the moniters are starting the revolution. " +
+	 "Now don't be fooled, these sugary disasters have been taking out our race for years. We will come for you and find your drinks and promptly flush them.",
 	"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png",
 	"locationName": "River Point",
 	"address": "3500 A River Point Pkwy, Denver, CO 80110",
