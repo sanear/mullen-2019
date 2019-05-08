@@ -22,9 +22,9 @@ function makeRestaurantCard(restaurant) {
 	result += '<div class="card card-block" style="width: 18rem;">';
 	result += '<img src="' + imageUrl + '" class="card-img-top" alt="...">';
 	result += '<div class="card-body">';
-	result += '<h5 class="card-title">"' + restaurantName + '"</h5>';
-	result += '<p class="card-text"> "' + restaurant.description + '"</p>';
-	result += '<button type="button" class="btn btn-primary" data-container="body" data-toggle="popover" dataplacement="top" data-content="Address, how far from Mullen?">"' + restaurantName + '"</button>';
+	result += '<h5 class="card-title">' + restaurantName + '</h5>';
+	result += '<p class="card-text">' + restaurant.description + '</p>';
+	result += '<button type="button" class="btn btn-primary" data-container="body" data-toggle="popover" dataplacement="top" data-content="Address, how far from Mullen?">' + restaurantName + '</button>';
 	result += '</div></div></div>';
 	return result;
 };
