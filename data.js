@@ -43,7 +43,7 @@ var restaurants = [
   },
   {	
     "name": "Panda Express",
-    "image": "https://i.ytimg.com/vi/PbIu4lAE3XI/maxresdefault.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Panda_Express_logo.svg/220px-Panda_Express_logo.svg.png",
     "locationName": "Englewood",
     "address": "2990 S Broadway, Englewood, CO 80113",
     "rating": 2,
